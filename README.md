@@ -1,8 +1,18 @@
 # Find Lumi — connected journey
 
-**An educational 3D puzzle-adventure about reflection.** Maya must open a route through a mirror museum to reach Lumi, reunite with her, and leave together — solving real optics and shortest-path problems along the way.
+**An educational real-time 3D puzzle-adventure about reflection.** Maya must open a route through a mirror museum to reach Lumi, reunite with her, and leave together — solving real optics and shortest-path problems along the way.
 
 > ▶ **Play it now (no login or install):** https://bobbyhkg.github.io/find-lumi/
+
+**Developed with 3D vision:** the whole museum is rendered in real-time 3D in the browser (Three.js / WebGL2). You can drag to look around, move with WASD/arrows, and inspect exhibits with E.
+
+## Screenshots
+
+**Task 3 — Repair the visitor pass.** Three reflected partners (RED, BLUE, PURPLE) are placed on the half-unit grid so each sits at the mirror image of its shape across the **crease (mirror line)**, then the repaired pass is inserted into the visitor-pass reader.
+
+![Task 3 — mirror partners across the crease (mirror line)](screenshots/task3-visitor-pass.png)
+
+![In-game 3D view of the visitor-pass workbench and reader](screenshots/task3-visitor-pass-2.png)
 
 ---
 
