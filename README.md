@@ -6,9 +6,6 @@
 
 **Developed with 3D vision:** the whole museum is rendered in real-time 3D in the browser (Three.js / WebGL2). You can drag to look around, move with WASD/arrows, and inspect exhibits with E.
 
-## Screenshots
-
-**Task 3 — Repair the visitor pass.** Three reflected partners (RED, BLUE, PURPLE) are placed on the half-unit grid so each sits at the mirror image of its shape across the **crease (mirror line)**, then the repaired pass is inserted into the visitor-pass reader.
 
 ![Task 3 — mirror partners across the crease (mirror line)](screenshots/task3-visitor-pass.png)
 
